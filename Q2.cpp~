@@ -14,7 +14,7 @@ int main(int argc, char const *argv[]){
 				score++;
 				i++;
 			}else{
-				//score=0;
+				score=0;
 			}
 		}
 	}
